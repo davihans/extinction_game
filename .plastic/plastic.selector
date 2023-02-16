@@ -1,0 +1,4 @@
+repository "Extinction (1)@GGJ_Global@cloud"
+  path "/"
+    br "/main"
+    co "/main"
